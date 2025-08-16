@@ -8,7 +8,7 @@
   <img align="right" width="300" src="./image/developer.gif" />
 </p>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=loquinariorey.loquinariorey" />
 <h2 align="center"></h2>
 <p>
 Hey 👋 I’m Rey — a Full Stack Developer who loves turning big ideas into beautiful, scalable apps.
